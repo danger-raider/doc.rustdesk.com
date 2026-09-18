@@ -252,6 +252,16 @@ languages:
       description: "RustDesk完整文檔 - 開源遠端桌面軟體。學習如何自主託管、配置客戶端並在您的基礎架構中部署RustDesk。"
       keywords: ["rustdesk", "遠端桌面", "開源", "自主託管", "文檔", "遠端存取", "VNC替代", "teamviewer替代"]
   
+  uk:
+    title: "Документація RustDesk"
+    weight: 2
+    languageName: "Українська"
+    params:
+      landingPageName: "🏠 Головна"
+      disable_cookie: true
+      description: "Повна документація RustDesk — відкритого програмного забезпечення для віддаленого доступу до робочого столу. Дізнайтеся, як розгорнути власний сервер, налаштувати клієнти та впровадити RustDesk у своїй інфраструктурі."
+      keywords: ["rustdesk", "віддалений робочий стіл", "відкритий код", "власний сервер", "документація", "віддалений доступ", "альтернатива VNC", "альтернатива TeamViewer"]
+
   ro:
     title: "Documentația RustDesk"
     weight: 1
